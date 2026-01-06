@@ -15,3 +15,5 @@
 # Known Bugs
 
 1. Modifying makeup overlays and eyebrows resets the **Hair Overlays** for the female characters. By doing `reloadskin` command, the character eyebrows and hair overlays are fixed (Hair Overlays is not something important or used by many female characters, its very rare to be used eitherway).
+
+2. There are sometimes that can destroy some makeup, groom or lifestyles when doing changes. By doing `reloadskin` command everything fixes but i have done many checks and attemps to avoid that (thats why you will see the face refreshing because the game-engine attempts to destroy them).
