@@ -14,4 +14,4 @@
    
 # Known Bugs
 
-1. Modifying eyebrows reset the Hair Overlays for the female characters. By doing `reloadskin` command, the character eyebrows and hair overlays are fixed.
+1. Modifying eyebrows reset the Hair Overlays for the female characters. By doing `reloadskin` command, the character eyebrows and hair overlays are fixed (Hair Overlays is not something important or used by many female characters, its very rare to be used eitherway).
