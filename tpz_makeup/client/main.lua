@@ -2,7 +2,6 @@ local PlayerData = {
 	HasMenuActive = false, 
 	HasNUIActive  = false,
     LocationIndex = nil,
-	Loaded        = false
 }
 
 ---------------------------------------------------------------
@@ -129,7 +128,7 @@ end)
  
 -- PUSH TO TALK.
 CreateThread(function()
-    repeat Wait(5000) until PlayerData.Loaded 
+
     local IS_NUI_FOCUSED = false
 
     while true do
